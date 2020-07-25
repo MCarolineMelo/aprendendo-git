@@ -1,5 +1,2 @@
-
-
-
 Alterando arquivo 
 Testando comando para pegar commits do repositório remoto.
